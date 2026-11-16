@@ -1,6 +1,3 @@
-# Papers con derechos de autor: se mantienen solo en local
-papers/*.pdf
-
 # Python
 __pycache__/
 *.py[cod]

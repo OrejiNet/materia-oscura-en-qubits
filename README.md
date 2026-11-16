@@ -36,7 +36,7 @@ Este proyecto resuelve el sistema en 1D con cuatro métodos y compara los result
 
 ```
 ├── docs/         Pauta y prepropuesta del proyecto
-├── papers/       Literatura de referencia (solo local, no se sube a GitHub)
+├── papers/       Literatura de referencia
 ├── notebooks/    Notebooks de experimentos
 ├── src/          Código reutilizable (solvers, circuitos)
 └── figures/      Figuras y animaciones generadas
